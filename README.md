@@ -1,3 +1,5 @@
 # 數字炸彈
-首先這個程式會random的給予一個Boom，1 <= Boom <= 1000。
-`dsad`
+Sample
+`Game start !!!
+ Please try to avoid the Boom and guess your first number
+ ?`
