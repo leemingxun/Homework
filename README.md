@@ -1,5 +1,5 @@
 # 數字炸彈
-Sample
+Sample<br>
 `Game start !!!
  Please try to avoid the Boom and guess your first number
  ?`
